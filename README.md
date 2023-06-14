@@ -18,3 +18,5 @@ To run this project follow the follwowing steps:
 </ul>
 <h3>SCREENSHOTS</h3>
 ![dice1](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/d2830db6-1df3-4851-a69a-7c03dde31806)
+<h3>USING </h3>
+To use this project you can simply refresh the page the dices are automatically fliped and the message is displayed at the top and enter the player number in the following box and click submit.</li>
