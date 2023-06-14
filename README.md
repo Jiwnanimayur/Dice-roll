@@ -16,3 +16,6 @@ To run this project follow the follwowing steps:
   <li>create the 1 column of name (Player won).</li>
   <li>After creating run the project.</li>
 </ul>
+![Dicee - Google Chrome 14-06-2023 10_22_47 PM (2)](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/013e7463-d6af-4ff1-b681-934e85cd0538)
+
+![Dicee - Google Chrome 14-06-2023 10_22_36 PM (2)](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/d3a5ce7a-cddf-4757-a7ef-8f426686702c)
