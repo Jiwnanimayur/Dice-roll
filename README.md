@@ -7,5 +7,12 @@ game players and is a fun and challenging dice game with multiple players
 <h3>INSTALLATION</h3>
 To run this project follow the follwowing steps: 
 <ul>
-  <li></li>
+  <li>Download the files.</li>
+  <li>Download the XAMPP server and install it.</li>
+  <li>Store the project files in httdocs.</li>
+  <li>Start xampp server.</li>
+  <li>Create database in phpmyadmin ().</li>
+  <li>After db creation create (roll) table.</li>
+  <li>create the 1 column of name (Player won).</li>
+  <li>After creating run the project.</li>
 </ul>
