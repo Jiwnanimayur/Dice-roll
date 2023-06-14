@@ -17,4 +17,4 @@ To run this project follow the follwowing steps:
   <li>After creating run the project.</li>
 </ul>
 <h3>SCREENSHOTS</h3>
-![Dicee - Google Chrome 14-06-2023 10_22_47 PM (2)](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/fa2b857c-5000-4626-8650-0103ee028348)
+![Uploading Dicee - Google Chrome 14-06-2023 10_22_47 PM (2).png…]()
