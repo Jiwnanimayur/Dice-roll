@@ -18,4 +18,4 @@ To run this project follow the follwowing steps:
 </ul>
 <h3>SCREENSHOTS</h3>
 ![Dicee - Google Chrome 14-06-2023 10_22_36 PM (2)](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/87a0d2c6-9836-4633-945f-cc8f77d02fe7)
-<img src="C:\Users\Admin\Videos\Captures\dice1.png" alt="Girl in a jacket" width="500" height="600">
+<img src="C:\Users\Admin\Videos\Captures\dice1.png" alt="ss1" width="500" height="600">
