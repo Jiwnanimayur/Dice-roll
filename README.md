@@ -17,7 +17,7 @@ To run this project follow the follwowing steps:
   <li>After creating run the project.</li>
 </ul>
 <h3>SCREENSHOTS</h3>
-![245879652-d2830db6-1df3-4851-a69a-7c03dde31806](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/84da91f2-4a87-4166-97e6-29e5020bd74f)
+#[245879652-d2830db6-1df3-4851-a69a-7c03dde31806](https://github.com/Jiwnanimayur/Dice-roll/assets/96532491/84da91f2-4a87-4166-97e6-29e5020bd74f)
 
 
 <h3>USING </h3>
